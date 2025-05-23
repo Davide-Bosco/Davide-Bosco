@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Davide-Bosco/Davide-Bosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Ciao! Sono Davide
 
-Here are some ideas to get you started:
+🎓 Attualmente studio a Torino, dove frequento la laurea magistrale in **Comunicazione, ICT e Media**.  
+💻 Sto approfondendo la **programmazione**, la **sicurezza web**, il **C++** e **Python**.  
+📱 Il mio progetto principale è un'app per **unificare le prenotazioni mediche** in Italia e **semplificare la gestione dei dati sanitari**: sarà anche l'argomento della mia tesi di laurea.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Cosa mi appassiona
+- 👨‍💻 Scrivere codice che risolva problemi concreti
+- 🔐 Web security e sviluppo di applicazioni sicure
+- 🤝 Collaborare su progetti in ambito tech e salute digitale
+
+---
+
+## 💡 Cerco collaborazione
+Sto cercando collaboratori o mentori interessati allo sviluppo di app in ambito **sanitario**, **Python**, **frontend/backend**, o **sicurezza informatica**.
+
+---
+
+## ⚡ Fun fact
+Mi piace **programmare** tanto quanto **sollevare ghisa in palestra!** 🏋️‍♂️💻
+
