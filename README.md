@@ -1,19 +1,5 @@
-#👋 Hi there! I'm Davide
-🎓 Master's candidate in Communication, ICT & Media at the University of Turin.
-💻 Skilled in programming, web security, social media management, and digital marketing.
-📱 Developing an app to streamline medical appointments and healthcare data management in Italy — topic of my thesis.
+I’m Davide Bosco, a Master’s graduate in Communication, ICT & Media from the University of Turin. I work at the intersection of software development, digital communication, and healthcare technology, with experience in programming, web security, social media management, and digital marketing.
 
-🚀 Core Interests
-👨‍💻 Building code that solves real problems
+For my thesis, I designed and developed an application to streamline medical appointments and healthcare data management in the Italian context, with a focus on usability and accessibility. I enjoy building code that solves real-world problems, collaborating in multidisciplinary teams, and working on health‑tech initiatives.
 
-🔐 Web security for robust applications
-
-📲 Digital communication via tech platforms
-
-🤝 Teamwork on health-tech initiatives
-
-💡 Open to Collaborations
-Available for projects in healthcare tech, Python, full-stack development, cybersecurity, or tech marketing.
-
-⚡ Fun Fact
-I code with the same intensity I lift weights in the gym. 🏋️‍♂️💻
+I’m open to collaborations on projects involving healthcare tech, Python development, full‑stack web applications, cybersecurity, and tech‑driven communication strategies. Outside of work, I bring the same discipline I apply in the gym to my coding practice.
